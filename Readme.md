@@ -3,7 +3,7 @@
 ## Getting started (< 2mn)
 
 ```
-git clone git@github.com:jbuget/nodejs-clean-architecture-app.git
+git clone git@github.com:kolobokhtc/nodejs-clean-architecture-app.git
 cd nodejs-clean-architecture-app
 npm install
 npm test
